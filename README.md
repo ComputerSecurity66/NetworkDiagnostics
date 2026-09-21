@@ -101,14 +101,16 @@ Network speed results can vary depending on factors such as the internet connect
 
 ## License
 
-Computer Security Latest Proprietary License Copyright © 2026 VALOR. All Rights Reserved.
+**Computer Security Latest Proprietary License**
+**Copyright © 2026 VALOR. All Rights Reserved.**
 
 This project is proprietary software and is not open source.
 
-Use, copying, modification, redistribution, publication, sublicensing, commercial use, and creation of derivative works are prohibited unless explicitly authorized in writing by the copyright holder.
+Use, copying, modification, redistribution, publication, sublicensing,
+commercial use, and creation of derivative works are prohibited unless
+explicitly authorized in writing by the copyright holder.
 
-See the LICENSE file for the complete license terms.
-
+See the `LICENSE` file for the complete license terms.
 ## Author
 
 **Computer Security Latest**
