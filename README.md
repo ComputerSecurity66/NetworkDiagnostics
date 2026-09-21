@@ -77,9 +77,9 @@ The utility itself does not perform network speed measurements. It provides quic
 ## Project Structure
 
 ```text
-Network-Speed-Diagnostics/
+Network-Diagnostics/
 │
-├── Network-Speed-Diagnostics.bat
+├── NetworkDiagnostics.bat
 └── README.md
 ```
 
